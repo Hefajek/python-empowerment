@@ -4,7 +4,7 @@ while tree_height <= 0:
     tree_height = int(input("Podaj wysokość choinki: "))
 
 incisions = tree_height - 1
-levels = tree_height
+LEVELS = tree_height
 level = 1
 branches = 1
 line = ''
