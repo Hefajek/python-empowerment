@@ -1,1 +1,1 @@
-# python-empowerment
+# Write a function christmas_tree which takes in an integer n representing the height of the christmas tree. The trunk always has a height of 2.
