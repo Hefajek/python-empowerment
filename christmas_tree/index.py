@@ -1,5 +1,4 @@
 def get_tree_height():
-    
     TREE_HEIGHT = int(input("Podaj wysokość choinki: "))
     while TREE_HEIGHT <= 0:
         print("Nie możesz wydrukować samego pnia!") 
