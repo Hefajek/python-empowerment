@@ -1,0 +1,1 @@
+Write a function that takes in a .txt file (containing HTML code), and returns string with the HTML tags removed. Assume that the input HTML string will always be valid and well-formed. You’re not allowed to use any libraries or regex.
